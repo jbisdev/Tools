@@ -41,6 +41,7 @@
 		<Company>Jbisdev</Company>
 		<Authors>Jbisdev</Authors>
 		<Description>Attributes for Jbisdev apps</Description>
+		<RepositoryUrl>https://github.com/jbisdev/Tools</RepositoryUrl>
 	</PropertyGroup>
 	<ItemGroup>
 		<Reference Include="System" />
